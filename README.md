@@ -1,8 +1,7 @@
 ## Hi there 👋
-
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Привет, меня зовут Александр! </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Я начинающий бэкенд разработчик на Go из России 🇷🇺</h3>
 
 <!--
 **AlexandrZlnov/AlexandrZlnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
