@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет,+меня+зовут+Александр!)](https://git.io/typing-svg)
-## Hi there 👋
-<h1 align="center">Привет, меня зовут Александр! </a> 
+## <h1 align="center">Привет, меня зовут Александр! </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я начинающий бэкенд разработчик на Go из России 🇷🇺</h3>
+<h3 align="center">Я начинающий бэкенд разработчик на Go 🇷🇺</h3> 👋
+
 
 <!--
 **AlexandrZlnov/AlexandrZlnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
