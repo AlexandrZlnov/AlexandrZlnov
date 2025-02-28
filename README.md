@@ -2,8 +2,13 @@
 <h2 align="center">Я начинающий бэкенд разработчик на Go </h2>
 
 Мои контакты:
-Email: 4089229@gmail.com
-Telegram: @Zlnov_A
+<ul>
+    <li>Email: 4089229@gmail.com</li>
+    <li>Telegram: @Zlnov_A</li>
+</ul>
+
+
+
 
 
 
