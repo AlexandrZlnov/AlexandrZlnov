@@ -4,7 +4,7 @@
 Мои контакты:
 <ul>
     <li>Email: <a href="mailto:4089229@gmail.com">4089229@gmail.com</a></li>
-    <li>Telegram: <a href="https://t.me/@Zlnov_A">@Zlnov_A</a></li>
+    <li>Telegram: <a href="https://t.me/Zlnov_A">@Zlnov_A</a></li>
 </ul>
 
 <!--
