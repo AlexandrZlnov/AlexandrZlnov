@@ -4,9 +4,8 @@
 Мои контакты:
 <ul>
     <li>Email: <a href="mailto:4089229@gmail.com">4089229@gmail.com</a></li>
-    <li>Telegram: @Zlnov_A</li>
+    <li>Telegram: <a href="https://t.me/@Zlnov_A">@Zlnov_A</a></li>
 </ul>
-
 
 <!--
 **AlexandrZlnov/AlexandrZlnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
