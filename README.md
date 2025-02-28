@@ -3,12 +3,9 @@
 
 Мои контакты:
 <ul>
-    <li>Email: 4089229@gmail.com</li>
+    <li>Email: <a href="4089229@gmail.com"</a></li>
     <li>Telegram: @Zlnov_A</li>
 </ul>
-
-
-
 
 
 
