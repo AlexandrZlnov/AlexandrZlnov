@@ -7,7 +7,7 @@
     <li>Telegram: @Zlnov_A</li>
 </ul>
 
-
+<a href="mailto:admin@hipolink.net">Текст ссылки</a>
 
 <!--
 **AlexandrZlnov/AlexandrZlnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
