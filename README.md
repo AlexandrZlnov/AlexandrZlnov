@@ -1,6 +1,5 @@
-## <h1 align="center">Привет, меня зовут Александр! </a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я начинающий бэкенд разработчик на Go 🇷🇺</h3> 👋
+## <h1 align="center">Привет, меня зовут Александр! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> </a> 
+<h2 align="center">Я начинающий бэкенд разработчик на Go 🇷🇺</h3> 👋
 
 
 <!--
