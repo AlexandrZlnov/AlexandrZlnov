@@ -1,5 +1,10 @@
 ## <h1 align="center">Привет, меня зовут Александр! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> </a> 
-<h2 align="center">Я начинающий бэкенд разработчик на Go 🇷🇺</h3> 👋
+<h2 align="center">Я начинающий бэкенд разработчик на Go </h2>
+
+Мои контакты:
+Email: 4089229@gmail.com
+Telegram: @Zlnov_A
+
 
 
 <!--
