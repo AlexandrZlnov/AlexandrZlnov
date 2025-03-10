@@ -26,21 +26,23 @@
 <!--- Статистика языков программирования -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrZlnov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--- 
-Подробная тема 
+Статистика языков программирова - Подробная тема 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrZlnov)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!--- Статистика использования GitHub -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrZlnov&show_icons=true&theme=gruvbox)
-<!-- Прозрачная тема
+
+<!-- Статистика использования GitHub - Прозрачная тема
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrZlnov&show_icons=true&bg_color=00000000)  
 -->
 
-<!--- Статистика CodeWars & LeetCode 
--->
-[![codewars](https://www.codewars.com/users/Zlnov/badges/small)](https://www.codewars.com/users/Zlnov)
+![](https://komarev.com/ghpvc/?username=AlexandrZlnov)
 
+<!--- Статистика CodeWars & LeetCode 
+[![codewars](https://www.codewars.com/users/Zlnov/badges/small)](https://www.codewars.com/users/Zlnov)
 ![leetcode](https://leetcard.jacoblin.cool/leetcode?site=cn)
+-->
 
 
 
